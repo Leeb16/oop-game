@@ -11,3 +11,4 @@ The rules of the game are that you have to guess the hidden phrase on the screen
  * Added a 1 second timer to the end of the game so the user can see the end results before the page changes
  * Added a gif to each of the winning and losing pages
 
+#### Live Demo - https://leeb16.github.io/oop-game/
